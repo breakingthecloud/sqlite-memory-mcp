@@ -3,6 +3,7 @@ name = "sqlite-memory-mcp"
 version = "0.1.0"
 description = "SQLite-backed MCP memory server with FTS5 search. Drop-in replacement for @modelcontextprotocol/server-memory."
 requires-python = ">=3.11"
+license = "MIT"
 dependencies = [
     "mcp>=1.0.0",
 ]

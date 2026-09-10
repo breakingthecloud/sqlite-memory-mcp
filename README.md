@@ -82,3 +82,7 @@ sqlite-memory-mcp/
 ├── pyproject.toml     # uv/pip deps
 └── .venv/             # Python venv (recreate with uv)
 ```
+
+## License
+
+MIT © 2026 Carlos Cortez — [cortez.cloud](https://cortez.cloud)
